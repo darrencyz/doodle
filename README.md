@@ -1,9 +1,9 @@
-time aspect
-
 view menu
+
+text saving
 
 multiple swatches
 
-text/xml saving
+xml saving
 
 readme
