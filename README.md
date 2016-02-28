@@ -1,5 +1,3 @@
-view menu
-
 text saving
 
 xml saving
